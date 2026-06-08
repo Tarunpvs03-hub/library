@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.library-container {
+    margin-top: 20px;
+    border: 2px solid black;
+    min-height: 200px;
+}
